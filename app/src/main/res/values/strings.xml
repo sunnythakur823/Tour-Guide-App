@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="hint_search">Search places...</string>
+    <string name="cat_all">All</string>
+    <string name="cat_historical">Historical</string>
+    <string name="cat_nature">Nature</string>
+    <string name="cat_adventure">Adventure</string>
+    <string name="cat_picnic">Picnic Spot</string>
+    <string name="cat_temple">Temple</string>
+    <string name="title_favorites">My Favorites</string>
+    <string name="empty_favorites">No favorites yet. Tap the star on any place to add it here.</string>
+    <string name="btn_open_maps">Open in Google Maps App</string>
+    <string name="label_timings">Timings: %1$s</string>
+    <string name="label_fee">Entry Fee: %1$s</string>
+    <string name="label_rating">Rating: %1$.1f ★</string>
+    <string name="desc_favorite">Toggle Favorite</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="type_tourist">Tourist Spots</string>
+    <string name="type_food">Food</string>
+    <string name="type_petrol">Petrol Pump</string>
+    <string name="type_stay">Stay</string>
+
+    <string-array name="radius_options">
+        <item>1 km</item>
+        <item>5 km</item>
+        <item>10 km</item>
+        <item>25 km</item>
+    </string-array>
+</resources>
